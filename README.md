@@ -6,18 +6,18 @@
 3. Return the weather for the city (using any external weather API)
 
 ## API Configuration
-1. #### Find out the city with external API. [Link](http://api.ipinfodb.com/v3/ip-city/?key=b7d840505f6bc036c504b5c3fa2589468a8172f8318d664952cf83797a5e8251&format=json)
+1. #### Find out the city with external API. [Link](http://api.ipinfodb.com/v3/ip-city/?key={apikey}&format=json)
 
 -  #### You Can use your own API Key If my expires. 
 
-- http://api.ipinfodb.com/v3/ip-city/?key=b7d840505f6bc036c504b5c3fa2589468a8172f8318d664952cf83797a5e8251&format=json
+- http://api.ipinfodb.com/v3/ip-city/?key={apikey}&format=json
 
 
-2. #### Return the weather for the city with external weather API [Link](http://api.openweathermap.org/data/2.5/weather?lat=24.904300&lon=67.081700&units=metric&appid=4b9be5067751c7c24283cf32d28bc06b)
+2. #### Return the weather for the city with external weather API [Link](http://api.openweathermap.org/data/2.5/weather?lat=24.904300&lon=67.081700&units=metric&appid={apikey})
 
 -  #### You Can use your own API Key If my expires. 
 
-- http://api.openweathermap.org/data/2.5/weather?lat=24.904300&lon=67.081700&units=metric&appid=4b9be5067751c7c24283cf32d28bc06b
+- http://api.openweathermap.org/data/2.5/weather?lat=24.904300&lon=67.081700&units=metric&appid={apikey}
 
 
 - The application should be an API to be called and should return all the information (city name, weather details). 
