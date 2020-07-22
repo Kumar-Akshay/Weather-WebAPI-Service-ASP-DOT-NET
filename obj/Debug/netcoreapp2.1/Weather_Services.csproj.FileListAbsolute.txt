@@ -1,0 +1,14 @@
+C:\Users\Akshay Kumar\source\repos\Weather_Services\bin\Debug\netcoreapp2.1\Weather_Services.deps.json
+C:\Users\Akshay Kumar\source\repos\Weather_Services\bin\Debug\netcoreapp2.1\Weather_Services.runtimeconfig.json
+C:\Users\Akshay Kumar\source\repos\Weather_Services\bin\Debug\netcoreapp2.1\Weather_Services.runtimeconfig.dev.json
+C:\Users\Akshay Kumar\source\repos\Weather_Services\bin\Debug\netcoreapp2.1\Weather_Services.dll
+C:\Users\Akshay Kumar\source\repos\Weather_Services\bin\Debug\netcoreapp2.1\Weather_Services.pdb
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.csprojAssemblyReference.cache
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.csproj.CoreCompileInputs.cache
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.RazorAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.RazorAssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.AssemblyInfoInputs.cache
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.AssemblyInfo.cs
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.RazorTargetAssemblyInfo.cache
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.dll
+C:\Users\Akshay Kumar\source\repos\Weather_Services\obj\Debug\netcoreapp2.1\Weather_Services.pdb
